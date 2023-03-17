@@ -1,0 +1,42 @@
+{
+    "connect":
+        {
+            "ip":"127.0.0.1", 
+            "port":4002, 
+            "id":89
+        },
+    "account":[
+        {
+            "name" : "John Doe",
+            "account" : "F1234567",
+            "alias" : "Advisor",
+            "type" : "Advisor",
+            "startValue" : 500.00,
+            "currValue" : 350.00
+        },
+        {
+            "name" : "Trader Joe",
+            "account" : "X9876543",
+            "alias" : "T-ROTH",
+            "type" : "ROTH",
+            "startValue" : 10000.00,
+            "currValue" : 17.01
+        }
+        {
+            "name" : "Betty Rubble",
+            "account" : "X3456987",
+            "alias" : "B-TFSA",
+            "type" : "TFSA",
+            "startValue" : 500.00,
+            "currValue" : 3789.25
+        }
+        {
+            "name" : "Grandpa Fred",
+            "account" : "X2579986",
+            "alias" : "G-RSP",
+            "type" : "RRSP",
+            "startValue" : 1.00,
+            "currValue" : 274098555.13
+        }
+    ]
+}

@@ -12,3 +12,13 @@ examples/*/__pycache__/
 
 examples/chromedriver.exe
 examples/token.json
+
+#   testcode folder is added here as the whole folder will be ignored 
+#   since the folder is not to be included in the repo nor any contained files
+testcode/
+
+#   ignore modules starting with test
+test*
+
+#   VSCode settings are not needed
+.vscode/
